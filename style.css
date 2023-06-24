@@ -1,0 +1,17 @@
+* {
+    line-height: 2;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-size: 42px;
+    text-align: center;
+}
+
+ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26px;
+    text-align: center;
+    list-style-position: inside;
+    list-style: none;
+}
